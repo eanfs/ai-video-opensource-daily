@@ -1,2 +1,7 @@
-# ai-video-opensource-daily
-每日调研：AI 视频短剧、学习视频、数字人直播、多模态 开源项目
+# AI Video Open-Source Daily
+
+每日追踪 GitHub 上 AI 短剧制作、教育视频、数字人直播、多模态 AI 相关的开源项目。
+
+## 报告索引
+
+- [2026-10-13](reports/2026-10-13.md)
